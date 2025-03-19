@@ -3,7 +3,7 @@ Version: 0.0.1-29+debug
 Architecture: iphoneos-arm
 Maintainer: coloured
 Installed-Size: 240
-Filename: ./packages/com.coloured.respring_0.0.1-29+debug_iphoneos-arm.deb
+Filename: ./deb/com.coloured.respring_0.0.1-29+debug_iphoneos-arm.deb
 Size: 19824
 MD5sum: 368c9af66eceda570646a9b758eeff2c
 SHA1: 7abb5c183be68d6a5f1ce101093a939bcb60683a
