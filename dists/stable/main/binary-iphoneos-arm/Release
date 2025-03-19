@@ -1,14 +1,14 @@
-Package: com.coloured.respring
-Version: 0.0.1-29+debug
-Architecture: iphoneos-arm
-Maintainer: coloured
-Installed-Size: 240
-Filename: ./packages/com.coloured.respring_0.0.1-29+debug_iphoneos-arm.deb
-Size: 19824
-MD5sum: 368c9af66eceda570646a9b758eeff2c
-SHA1: 7abb5c183be68d6a5f1ce101093a939bcb60683a
-SHA256: aa5202acbfb1487ba6631a932d23d2f63aa48b4b996fb3de998c62c27d61cd2b
-Section: Utilities
-Description: it literally just resprings ur idevice (iOS 6.x only)
-Author: coloured
-Name: respring
+Origin: coloured
+Label: coloured
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: mid tweaks n apps from coloured
+MD5Sum:
+  dae3c116b9415ba739f74982864eb7e5  deb-packages/com.coloured.respring_0.0.1-9+debug_iphoneos-arm.deb
+SHA1:
+  95b04ab590d751f1e0054fef1fc89662a328e55a  deb-packages/com.coloured.respring_0.0.1-9+debug_iphoneos-arm.deb
+SHA256:
+  48cc715754217b05ef8cacba1f0f72977c9d4974340b7dabc418b445f5be9bf4  deb-packages/com.coloured.respring_0.0.1-9+debug_iphoneos-arm.deb
