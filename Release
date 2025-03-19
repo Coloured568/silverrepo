@@ -7,8 +7,8 @@ Architectures: iphoneos-arm
 Components: main
 Description: mid tweaks n apps from coloured
 MD5Sum:
-  dae3c116b9415ba739f74982864eb7e5  packages/com.coloured.respring_0.0.1-29+debug_iphoneos-arm.deb
+  dae3c116b9415ba739f74982864eb7e5  ./deb/com.coloured.respring_0.0.1-29+debug_iphoneos-arm.deb
 SHA1:
-  95b04ab590d751f1e0054fef1fc89662a328e55a  packages/com.coloured.respring_0.0.1-29+debug_iphoneos-arm.deb
+  95b04ab590d751f1e0054fef1fc89662a328e55a  ./deb/com.coloured.respring_0.0.1-29+debug_iphoneos-arm.deb
 SHA256:
-  48cc715754217b05ef8cacba1f0f72977c9d4974340b7dabc418b445f5be9bf4  packages/com.coloured.respring_0.0.1-29+debug_iphoneos-arm.deb
+  48cc715754217b05ef8cacba1f0f72977c9d4974340b7dabc418b445f5be9bf4  ./deb/com.coloured.respring_0.0.1-29+debug_iphoneos-arm.deb
